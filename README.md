@@ -8,7 +8,7 @@ I'm Simon Renoult (aka @simonrenoult), senior software engineer based in Paris �
 Building products! Scaling organizations! Domain-Driven Design! Scaling architecture! Software craftship!
 
 
-## Currently learning
+## Currently experimenting
 
 Small team engineering practices.
 
@@ -18,7 +18,7 @@ Small team engineering practices.
 Products that make sense.
 
 
-## Technologies & Methodologies
+## Technologies & Methodologies
 
 - 🤖 Node.js since 2012 (Express, NestJS, HapiJS)
 - 🏗️ Software Craftsmanship & DDD since 2015
@@ -29,4 +29,4 @@ Products that make sense.
 
 ## Reach me
 
-- contact@simonrenoult.fr
+contact@simonrenoult.fr
