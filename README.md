@@ -1,6 +1,6 @@
-# 👋
+# 👋 Nice to meet you 👋
 
-I'm Simon Renoult (aka @simonrenoult), software engineer based in Paris 🇫🇷
+I'm Simon Renoult (aka @simonrenoult), senior software engineer based in Paris 🇫🇷
 
 
 ## Interested in...
@@ -10,7 +10,7 @@ Building products! Scaling organizations! Domain-Driven Design! Scaling architec
 
 ## Currently learning
 
-Mostly scaling organizations, teams and products.
+Small team engineering practices.
 
 
 ## Willing to collaborate on
@@ -18,6 +18,15 @@ Mostly scaling organizations, teams and products.
 Products that make sense.
 
 
+## Technologies & Methodologies
+
+- 🤖 Node.js since 2012 (Express, NestJS, HapiJS)
+- 🏗️ Software Craftsmanship & DDD since 2015
+- 🌟 TypeScript since 2019
+- 🎨 Angular since 2017, Vue since 2023
+- 💜 Also did a few years with Python and Java/Kotlin, love'em
+
+
 ## Reach me
 
-- https://twitter.com/simonrenoult
+- contact@simonrenoult.fr
