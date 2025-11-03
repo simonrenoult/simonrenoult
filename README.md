@@ -3,19 +3,30 @@
 I'm Simon Renoult (aka @simonrenoult), senior software engineer based in Paris 🇫🇷
 
 
+## Willing to collaborate on
+
+Products that make the world a better place.
+
+
 ## Interested in...
 
-Building products! Scaling organizations! Domain-Driven Design! Scaling architecture! Software craftship!
+Building products leading to a better world! 
+
+How to find the best people? 👯
+
+What's the appropriate amount of AI in all that?
 
 
 ## Currently experimenting
 
-Small team engineering practices.
+Small team engineering practices: given a small group of people, how do you get the best out of everyone?
 
 
-## Willing to collaborate on
+## Reading...
 
-Products that make sense.
+- Just Enough Software Architecture, George FAIRBANKS
+- Good Strategy, Bad Strategy, Richard P. RUMELT
+- The Murderbot Diaries, Matha WELLS 🤖
 
 
 ## Technologies & Methodologies
